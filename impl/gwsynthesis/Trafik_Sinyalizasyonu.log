@@ -1,0 +1,9 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\bkesk\Desktop\gw\Trafik_Sinyalizasyonu\src\Trafik_sin.v'
+ERROR (EX3863) : Syntax error near ';'("C:\Users\bkesk\Desktop\gw\Trafik_Sinyalizasyonu\src\Trafik_sin.v":16)
+ERROR (EX3863) : Syntax error near ';'("C:\Users\bkesk\Desktop\gw\Trafik_Sinyalizasyonu\src\Trafik_sin.v":20)
+ERROR (EX3863) : Syntax error near ';'("C:\Users\bkesk\Desktop\gw\Trafik_Sinyalizasyonu\src\Trafik_sin.v":24)
+ERROR (EX3863) : Syntax error near ';'("C:\Users\bkesk\Desktop\gw\Trafik_Sinyalizasyonu\src\Trafik_sin.v":28)
+Verilog file 'C:\Users\bkesk\Desktop\gw\Trafik_Sinyalizasyonu\src\Trafik_sin.v' ignored due to errors
+GowinSynthesis finish
